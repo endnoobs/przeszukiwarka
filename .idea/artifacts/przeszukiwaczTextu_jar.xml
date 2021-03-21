@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="przeszukiwaczTextu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/przeszukiwaczTextu_jar</output-path>
+    <root id="archive" name="przeszukiwaczTextu.jar">
+      <element id="module-output" name="przeszukiwaczTextu" />
+    </root>
+  </artifact>
+</component>
